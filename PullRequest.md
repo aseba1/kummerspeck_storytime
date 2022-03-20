@@ -6,7 +6,7 @@ Names and Links:
 
 Jacob Gonzales - https://github.com/mhende18/dreikaesehoch_Story/pull/8
 
-[Enter name here] - [Enter link here]
+Andrew Seba - https://github.com/tbaird2/LuftshlossStoryTime/pull/4
 [Enter name here] - [Enter link here]
 [Enter name here] - [Enter link here]
 [Enter name here] - [Enter link here]
